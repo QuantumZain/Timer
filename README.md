@@ -3,7 +3,7 @@ A crappy timer written very inefficiently but it works
 
 Medhat if you want to use a different audio file for your alarm then Make sure:
 1. To delete or remove the current GOAT.wav file
-2. The new audio file is a .wav file. Use this site to convert any sound file to .wav
+2. The new audio file is a .wav file. Use this site to convert any sound file to .wav https://online-audio-converter.com/
 3. it's renamed to GOAT
 
 --
